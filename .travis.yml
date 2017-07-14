@@ -1,5 +1,5 @@
-language: php
-rvm:
-  - 0.1
-notifications:
-  email: false
+{
+  "language": "ruby",
+  "script": "script/travis-ci",
+  "rvm": "2.1.2"
+}
