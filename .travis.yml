@@ -1,2 +1,7 @@
 language: php
+script: 'script/travis-ci'
+rvm:
+  - 0.1
+notifications:
+  email: false
 sudo: false
