@@ -4,4 +4,3 @@ rvm:
   - 0.1
 notifications:
   email: false
-sudo: false
